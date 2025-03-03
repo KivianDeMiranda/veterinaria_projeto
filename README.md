@@ -52,3 +52,6 @@ Impactos nas Áreas:
 •	ITIL: Apoia as melhores práticas de gestão de serviços de TI, como a gestão de mudanças e configuração.
 •	COBIT: Ajuda na implementação de controles de TI eficazes, garantindo a integridade e segurança dos sistemas.
 •	ESG: Promove práticas sustentáveis e responsáveis, garantindo que o desenvolvimento de software seja feito de maneira ética e transparente.
+
+A prática de gerenciamento de artefatos utilizando uma ferramenta de gestão de configuração como o GitHub trouxe importantes aprendizados sobre organização,
+rastreamento de mudanças e colaboração em equipe. Esses fatores são fundamentais para o sucesso de qualquer projeto de software, proporcionando uma infraestrutura robusta e segura para o desenvolvimento contínuo e a entrega de soluções de alta qualidade. O impacto positivo nas áreas de Estratégia, Governança, ITIL, COBIT e ESG demonstra a relevância do gerenciamento de artefatos não apenas para o sucesso técnico, mas também para a sustentabilidade e a responsabilidade social e ambiental no desenvolvimento de software.
